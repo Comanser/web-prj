@@ -1,5 +1,6 @@
 # www.robotstxt.org/
 # !!
+# New line added
 # Allow crawling of all content
 User-agent: *
 Disallow:
